@@ -1,0 +1,105 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="a2df6a77-3e82-4def-b61b-7ad795ab0c07" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution>
+      <executable />
+    </execution>
+  </component>
+  <component name="ProjectId" id="1aDVXEwwSrH4PkyXvXTl8BiP855" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+  </component>
+  <component name="RunManager" selected="PHP Script.YiiBase.php">
+    <configuration name="kartero" type="PHPUnitRunConfigurationType" factoryName="PHPUnit" temporary="true">
+      <TestRunner directory="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
+    <configuration name="YiiBase.php" type="PhpLocalRunConfigurationType" factoryName="PHP Console" temporary="true" path="$PROJECT_DIR$/yiiframework/YiiBase.php">
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="PHP Script.YiiBase.php" />
+        <item itemvalue="PHPUnit.kartero" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="a2df6a77-3e82-4def-b61b-7ad795ab0c07" name="Default Changelist" comment="" />
+      <created>1586270188864</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1586270188864</updated>
+      <workItem from="1586270191910" duration="3539000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="263" y="25" key="#CLI_Interpreters" timestamp="1586271569568">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="263" y="25" key="#CLI_Interpreters/0.0.1366.738@0.0.1366.738" timestamp="1586271569568" />
+    <state x="275" y="29" key="#Notifications" timestamp="1586271243492">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="275" y="29" key="#Notifications/0.0.1366.738@0.0.1366.738" timestamp="1586271243492" />
+    <state x="406" y="0" key="#PHP" timestamp="1586271571066">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="406" y="0" key="#PHP/0.0.1366.738@0.0.1366.738" timestamp="1586271571066" />
+    <state x="409" y="83" key="#YiiBase.php" timestamp="1586271635231">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="409" y="83" key="#YiiBase.php/0.0.1366.738@0.0.1366.738" timestamp="1586271635231" />
+    <state x="137" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586270323089">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="137" y="25" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.738@0.0.1366.738" timestamp="1586270323089" />
+    <state x="379" y="38" width="621" height="661" key="#kartero" timestamp="1586271533175">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="379" y="38" width="621" height="661" key="#kartero/0.0.1366.738@0.0.1366.738" timestamp="1586271533175" />
+    <state x="463" y="125" key="FileChooserDialogImpl" timestamp="1586271565956">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="463" y="125" key="FileChooserDialogImpl/0.0.1366.738@0.0.1366.738" timestamp="1586271565956" />
+    <state x="186" y="0" key="SettingsEditor" timestamp="1586270851085">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="186" y="0" key="SettingsEditor/0.0.1366.738@0.0.1366.738" timestamp="1586270851085" />
+    <state x="390" y="195" key="com.intellij.ide.util.TipDialog" timestamp="1586270204324">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="390" y="195" key="com.intellij.ide.util.TipDialog/0.0.1366.738@0.0.1366.738" timestamp="1586270204324" />
+    <state x="390" y="3" width="585" height="732" key="find.popup" timestamp="1586278867628">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="390" y="3" width="585" height="732" key="find.popup/0.0.1366.738@0.0.1366.738" timestamp="1586278867628" />
+    <state x="339" y="159" key="run.anything.popup" timestamp="1586271254196">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="339" y="159" key="run.anything.popup/0.0.1366.738@0.0.1366.738" timestamp="1586271254196" />
+  </component>
+</project>
